@@ -2,9 +2,9 @@
   "name": "jawad-mediawiki",
   "version": "1.0.0",
   "author": "jawad",
-  "summary": "Installs, configures, and manages the NTP service.",
+  "summary": "Installs mediawiki application.",
   "license": "Apache-2.0",
-  "source":"https://github.com/puppetlabs/puppetlabs-ntp", 
+  "source":https://github.com/jawadhussain03/mediawiki.git"",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
