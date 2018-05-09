@@ -41,7 +41,8 @@
 # ---------
 #
 # Copyright 2018 Your name here, unless otherwise noted.
-#added for git testing
+# Test to merge master branch to remote branch
+
 class mediawiki {
   if $facts['os']['family'] == 'RedHat' {
       $plist=['php-mysql','php-xml']
