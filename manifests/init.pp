@@ -40,7 +40,7 @@
 # Copyright
 # ---------
 #
-# Copyright 2018 Your name here, unless otherwise noted.
+# Copyright 2018 Jawad Hussain, unless otherwise noted.
 
 class mediawiki {
   if $facts['os']['family'] == 'RedHat' {
