@@ -38,8 +38,6 @@
 # Copyright
 # ---------
 #
-# Copyright 2018 Your name here, unless otherwise noted.
-# Test to merge master branch to remote branch
 # Copyright 2018 Jawad Hussain, unless otherwise noted.
 
 class mediawiki {
