@@ -41,7 +41,8 @@
 # ---------
 #
 # Copyright 2018 Your name here, unless otherwise noted.
-#added for git testing
+# added for git testing
+# added for git 2nd testing
 class mediawiki {
   if $facts['os']['family'] == 'RedHat' {
       $plist=['php-mysql','php-xml']
