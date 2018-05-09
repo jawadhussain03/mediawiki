@@ -39,6 +39,7 @@
 # ---------
 #
 # Copyright 2018 Jawad Hussain, unless otherwise noted.
+# tag push test for git hub
 
 class mediawiki {
   if $facts['os']['family'] == 'RedHat' {
